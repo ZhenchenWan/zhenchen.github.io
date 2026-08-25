@@ -1,6 +1,6 @@
 <script>
     $(document).ready(function () {
-        $.getJSON("/assets/gs_data.json", function (data) {
+        $.getJSON("{{ '/assets/gs_data.json' | relative_url }}", function (data) {
             var totalCitation = data['citedby']
             document.getElementById('total_cit').innerHTML = totalCitation;
             var citationEles = document.getElementsByClassName('show_paper_citations')

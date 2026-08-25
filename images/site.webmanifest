@@ -3,7 +3,7 @@
     "short_name": "Zhenchen Wan",
     "icons": [
        {
-          "src": "/images/favicon-zhenchen.svg",
+          "src": "favicon-zhenchen.svg",
           "sizes": "any",
           "type": "image/svg+xml"
         }

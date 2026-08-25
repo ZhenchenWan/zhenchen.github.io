@@ -32,7 +32,7 @@ redirect_from:
 
 ## 同行评审论文
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='/images/teaser/2026Mobile-VTON.png' alt="Mobile-VTON 方法概览" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src="{{ '/images/teaser/2026Mobile-VTON.png' | relative_url }}" alt="Mobile-VTON 方法概览" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Mobile-VTON: High-Fidelity On-Device Virtual Try-On](https://arxiv.org/abs/2603.00947) \\
@@ -46,7 +46,7 @@ redirect_from:
 </div>
 
 
-<div class='paper-box' style='border-bottom: none;'><div class='paper-box-image'><div><div class="badge">ICCVW 2025</div><img src='/images/teaser/2025MFT-VITON.png' alt="MFT-VITON 无掩码虚拟试穿结果" width="100%"></div></div>
+<div class='paper-box' style='border-bottom: none;'><div class='paper-box-image'><div><div class="badge">ICCVW 2025</div><img src="{{ '/images/teaser/2025MFT-VITON.png' | relative_url }}" alt="MFT-VITON 无掩码虚拟试穿结果" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MFT-VITON: High-Fidelity Virtual Try-On with Minimal Input via a Mask-Free Transformer-Diffusion Model](https://openaccess.thecvf.com/content/ICCV2025W/HiGen/html/Wan_MFT-VITON_High-Fidelity_Virtual_Try-On_with_Minimal_Input_via_a_Mask-Free_ICCVW_2025_paper.html) \\
@@ -127,7 +127,7 @@ Tianyu Huang, Zhenyang Ren, **_<u>Zhenchen Wan</u>_**, Jiyang Zheng, Wenjie Wang
 # 🎓 教育背景
 
 <div class='education-item'>
-<div class='edu-logo'><img src='/images/usyd-logo.jpg' alt='悉尼大学'></div>
+<div class='edu-logo'><img src="{{ '/images/usyd-logo.jpg' | relative_url }}" alt='悉尼大学'></div>
 <div class='edu-text' markdown="1">
 **博士候选人** \\
 [悉尼大学](https://www.sydney.edu.au/)，澳大利亚悉尼 \\
@@ -137,7 +137,7 @@ Tianyu Huang, Zhenyang Ren, **_<u>Zhenchen Wan</u>_**, Jiyang Zheng, Wenjie Wang
 </div>
 
 <div class='education-item'>
-<div class='edu-logo'><img src='/images/unimelb-logo.png' alt='墨尔本大学'></div>
+<div class='edu-logo'><img src="{{ '/images/unimelb-logo.png' | relative_url }}" alt='墨尔本大学'></div>
 <div class='edu-text' markdown="1">
 **计算机科学硕士** \\
 [墨尔本大学](https://www.unimelb.edu.au/)，澳大利亚墨尔本 \\
@@ -146,7 +146,7 @@ Tianyu Huang, Zhenyang Ren, **_<u>Zhenchen Wan</u>_**, Jiyang Zheng, Wenjie Wang
 </div>
 
 <div class='education-item'>
-<div class='edu-logo'><img src='/images/unimelb-logo.png' alt='墨尔本大学'></div>
+<div class='edu-logo'><img src="{{ '/images/unimelb-logo.png' | relative_url }}" alt='墨尔本大学'></div>
 <div class='edu-text' markdown="1">
 **理学学士** \\
 计算机与软件系统专业 \\
@@ -159,7 +159,7 @@ Tianyu Huang, Zhenyang Ren, **_<u>Zhenchen Wan</u>_**, Jiyang Zheng, Wenjie Wang
 # 💻 实习经历
 
 <div class='internship-item'>
-<div class='intern-logo'><img src='/images/alibaba-logo.png' alt='阿里巴巴'></div>
+<div class='intern-logo'><img src="{{ '/images/alibaba-logo.png' | relative_url }}" alt='阿里巴巴'></div>
 <div class='intern-text' markdown="1">
 **研究实习生** \\
 [阿里巴巴虎鲸文娱集团](https://www.alibabagroup.com/)（优酷） \\
@@ -169,7 +169,7 @@ Tianyu Huang, Zhenyang Ren, **_<u>Zhenchen Wan</u>_**, Jiyang Zheng, Wenjie Wang
 </div>
 
 <div class='internship-item'>
-<div class='intern-logo'><img src='/images/mbzuai-logo.png' alt='MBZUAI'></div>
+<div class='intern-logo'><img src="{{ '/images/mbzuai-logo.png' | relative_url }}" alt='MBZUAI'></div>
 <div class='intern-text' markdown="1">
 **研究工程师** \\
 [穆罕默德·本·扎耶德人工智能大学 (MBZUAI)](https://mbzuai.ac.ae/)，阿联酋阿布扎比 \\

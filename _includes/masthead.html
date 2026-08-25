@@ -4,9 +4,9 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me" target="_self">Homepage</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="{{ '/' | relative_url }}#about-me" target="_self">Homepage</a></li>
           {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}" target="_self">{{ link.title }}</a></li>
+            <li class="masthead__menu-item"><a href="{{ link.url | relative_url }}" target="_self">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
@@ -21,7 +21,7 @@
         <button class="lang-switch-btn">🌐 Languages ▾</button>
         <ul class="lang-dropdown">
           <li><span class="lang-option current">English</span></li>
-          <li><a href="/zh-cn/" class="lang-option" target="_self">简体中文</a></li>
+          <li><a href="{{ '/zh-cn/' | relative_url }}" class="lang-option" target="_self">简体中文</a></li>
         </ul>
       </div>
     </div>

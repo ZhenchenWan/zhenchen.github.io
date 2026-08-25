@@ -29,7 +29,7 @@ I am open to academic collaboration. Please feel free to contact me at [flashwzc
 
 ## Peer-reviewed Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='/images/teaser/2026Mobile-VTON.png' alt="Mobile-VTON method overview" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src="{{ '/images/teaser/2026Mobile-VTON.png' | relative_url }}" alt="Mobile-VTON method overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Mobile-VTON: High-Fidelity On-Device Virtual Try-On](https://arxiv.org/abs/2603.00947) \\
@@ -43,7 +43,7 @@ I am open to academic collaboration. Please feel free to contact me at [flashwzc
 </div>
 
 
-<div class='paper-box' style='border-bottom: none;'><div class='paper-box-image'><div><div class="badge">ICCVW 2025</div><img src='/images/teaser/2025MFT-VITON.png' alt="MFT-VITON mask-free virtual try-on results" width="100%"></div></div>
+<div class='paper-box' style='border-bottom: none;'><div class='paper-box-image'><div><div class="badge">ICCVW 2025</div><img src="{{ '/images/teaser/2025MFT-VITON.png' | relative_url }}" alt="MFT-VITON mask-free virtual try-on results" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MFT-VITON: High-Fidelity Virtual Try-On with Minimal Input via a Mask-Free Transformer-Diffusion Model](https://openaccess.thecvf.com/content/ICCV2025W/HiGen/html/Wan_MFT-VITON_High-Fidelity_Virtual_Try-On_with_Minimal_Input_via_a_Mask-Free_ICCVW_2025_paper.html) \\
@@ -123,7 +123,7 @@ Tianyu Huang, Zhenyang Ren, **_<u>Zhenchen Wan</u>_**, Jiyang Zheng, Wenjie Wang
 # 🎓 Education
 
 <div class='education-item'>
-<div class='edu-logo'><img src='/images/usyd-logo.jpg' alt='University of Sydney'></div>
+<div class='edu-logo'><img src="{{ '/images/usyd-logo.jpg' | relative_url }}" alt='University of Sydney'></div>
 <div class='edu-text' markdown="1">
 **Ph.D. Candidate** \\
 [University of Sydney](https://www.sydney.edu.au/), Sydney, Australia \\
@@ -133,7 +133,7 @@ Co-supervisor: [Prof. Mingming Gong](https://mingming-gong.github.io/)
 </div>
 
 <div class='education-item'>
-<div class='edu-logo'><img src='/images/unimelb-logo.png' alt='University of Melbourne'></div>
+<div class='edu-logo'><img src="{{ '/images/unimelb-logo.png' | relative_url }}" alt='University of Melbourne'></div>
 <div class='edu-text' markdown="1">
 **Master of Computer Science** \\
 [University of Melbourne](https://www.unimelb.edu.au/), Melbourne, Australia \\
@@ -142,7 +142,7 @@ Supervisor: [Prof. Mingming Gong](https://mingming-gong.github.io/)
 </div>
 
 <div class='education-item'>
-<div class='edu-logo'><img src='/images/unimelb-logo.png' alt='University of Melbourne'></div>
+<div class='edu-logo'><img src="{{ '/images/unimelb-logo.png' | relative_url }}" alt='University of Melbourne'></div>
 <div class='edu-text' markdown="1">
 **Bachelor of Science** \\
 Major in Computing and Software Systems \\
@@ -154,7 +154,7 @@ Major in Computing and Software Systems \\
 # 💻 Experience
 
 <div class='internship-item'>
-<div class='intern-logo'><img src='/images/alibaba-logo.png' alt='Alibaba'></div>
+<div class='intern-logo'><img src="{{ '/images/alibaba-logo.png' | relative_url }}" alt='Alibaba'></div>
 <div class='intern-text' markdown="1">
 **Research Intern** \\
 [Alibaba Hujing Digital Media and Entertainment Group](https://www.alibabagroup.com/) (Youku) \\
@@ -164,7 +164,7 @@ Supervisor: [Dr. Huan Fu](https://huan-fu.github.io/)
 </div>
 
 <div class='internship-item'>
-<div class='intern-logo'><img src='/images/mbzuai-logo.png' alt='MBZUAI'></div>
+<div class='intern-logo'><img src="{{ '/images/mbzuai-logo.png' | relative_url }}" alt='MBZUAI'></div>
 <div class='intern-text' markdown="1">
 **Research Engineer** \\
 [Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/), Abu Dhabi, UAE \\

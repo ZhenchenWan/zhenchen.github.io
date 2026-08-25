@@ -10,6 +10,8 @@ title                    : "Zhenchen Wan"
 description              : "Ph.D. Candidate at the University of Sydney. Research on high-fidelity virtual try-on, generative models, 3D vision, and on-device generation."
 description_zh           : "悉尼大学博士候选人，研究方向为高保真虚拟试穿、生成式模型、三维视觉与端侧生成。"
 repository               : "ZhenchenWan/zhenchen.github.io"
+url                      : "https://zhenchenwan.github.io"
+baseurl                  : "/zhenchen.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
