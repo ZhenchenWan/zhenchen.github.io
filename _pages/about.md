@@ -137,7 +137,7 @@ Co-supervisor: [Prof. Mingming Gong](https://mingming-gong.github.io/)
 <div class='edu-text' markdown="1">
 **Master of Computer Science** \\
 [University of Melbourne](https://www.unimelb.edu.au/), Melbourne, Australia \\
-Supervisor: [Prof. Mingming Gong](https://mingming-gong.github.io/)
+Supervisor: [Prof. Mingming Gong](https://mingming-gong.github.io/) and [Dr. Yanwu Xu](https://xuyanwu.github.io/)
 </div>
 </div>
 
