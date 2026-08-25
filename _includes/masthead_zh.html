@@ -1,0 +1,43 @@
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <button><div class="navicon"></div></button>
+        <ul class="visible-links">
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me" target="_self">主页</a></li>
+          {% for link in site.data.navigation_zh.main %}
+            <li class="masthead__menu-item"><a href="{{ link.url }}" target="_self">{{ link.title }}</a></li>
+          {% endfor %}
+        </ul>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+      <button id="theme-toggle" class="theme-toggle" aria-label="切换深色模式" title="切换深色/浅色模式">
+        <span class="icon-dark">☾</span>
+        <span class="icon-light">☀</span>
+        <span class="label-dark">深色</span>
+        <span class="label-light">浅色</span>
+      </button>
+      <div class="lang-switch">
+        <button class="lang-switch-btn">🌐 语言 ▾</button>
+        <ul class="lang-dropdown">
+          <li><a href="/" class="lang-option" target="_self">English</a></li>
+          <li><span class="lang-option current">简体中文</span></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+(function() {
+  var btn = document.getElementById('theme-toggle');
+  btn.addEventListener('click', function() {
+    var current = document.documentElement.getAttribute('data-theme');
+    var isDark = current === 'dark' ||
+      (!current && window.matchMedia('(prefers-color-scheme: dark)').matches);
+    var next = isDark ? 'light' : 'dark';
+    document.documentElement.setAttribute('data-theme', next);
+    localStorage.setItem('theme', next);
+  });
+})();
+</script>

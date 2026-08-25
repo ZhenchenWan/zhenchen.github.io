@@ -4,13 +4,40 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me" target="_self">Homepage</a></li>
           {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}" target="_self">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
+      <button id="theme-toggle" class="theme-toggle" aria-label="切换深色模式" title="切换深色/浅色模式">
+        <span class="icon-dark">☾</span>
+        <span class="icon-light">☀</span>
+        <span class="label-dark">Dark</span>
+        <span class="label-light">Light</span>
+      </button>
+      <div class="lang-switch">
+        <button class="lang-switch-btn">🌐 Languages ▾</button>
+        <ul class="lang-dropdown">
+          <li><span class="lang-option current">English</span></li>
+          <li><a href="/zh-cn/" class="lang-option" target="_self">简体中文</a></li>
+        </ul>
+      </div>
     </div>
   </div>
 </div>
+
+<script>
+(function() {
+  var btn = document.getElementById('theme-toggle');
+  btn.addEventListener('click', function() {
+    var current = document.documentElement.getAttribute('data-theme');
+    var isDark = current === 'dark' ||
+      (!current && window.matchMedia('(prefers-color-scheme: dark)').matches);
+    var next = isDark ? 'light' : 'dark';
+    document.documentElement.setAttribute('data-theme', next);
+    localStorage.setItem('theme', next);
+  });
+})();
+</script>
