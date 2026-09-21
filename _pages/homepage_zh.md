@@ -177,3 +177,21 @@ Tianyu Huang, Zhenyang Ren, **_<u>Zhenchen Wan</u>_**, Jiyang Zheng, Wenjie Wang
 导师：[Prof. Mingming Gong](https://mingming-gong.github.io/)
 </div>
 </div>
+
+
+<span class='anchor' id='services'></span>
+
+# 🤝 学术服务
+
+## 会议审稿人
+
+- NeurIPS 2026
+- ICLR 2026
+
+## 期刊审稿人
+
+- IEEE Transactions on Image Processing
+- Pattern Recognition
+- Neural Networks
+- IEEE Transactions on Information Forensics and Security
+- Machine Learning

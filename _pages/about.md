@@ -172,3 +172,21 @@ Mar. 2025 – Dec. 2025 \\
 Supervisor: [Prof. Mingming Gong](https://mingming-gong.github.io/)
 </div>
 </div>
+
+
+<span class='anchor' id='services'></span>
+
+# 🤝 Services
+
+## Conference Reviewer
+
+- NeurIPS 2026
+- ICLR 2026
+
+## Journal Reviewer
+
+- IEEE Transactions on Image Processing
+- Pattern Recognition
+- Neural Networks
+- IEEE Transactions on Information Forensics and Security
+- Machine Learning
