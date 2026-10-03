@@ -179,6 +179,14 @@ Tianyu Huang, Zhenyang Ren, **_<u>Zhenchen Wan</u>_**, Jiyang Zheng, Wenjie Wang
 </div>
 
 
+<span class='anchor' id='honour-and-scholarship'></span>
+
+# 🏆 荣誉与奖学金
+
+- **2025 — 悉尼大学工程学院研究奖学金（Faculty of Engineering Research Scholarship, ERS）**。 \\
+  由悉尼大学工程学院与澳大利亚研究理事会（ARC）通过 Future Fellowships 项目（FT220100318）共同资助。
+
+
 <span class='anchor' id='services'></span>
 
 # 🤝 学术服务

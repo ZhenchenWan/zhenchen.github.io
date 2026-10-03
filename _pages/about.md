@@ -174,6 +174,14 @@ Supervisor: [Prof. Mingming Gong](https://mingming-gong.github.io/)
 </div>
 
 
+<span class='anchor' id='honour-and-scholarship'></span>
+
+# 🏆 Honour and Scholarship
+
+- **2025 — Faculty of Engineering Research Scholarship (ERS)**, University of Sydney. \\
+  Co-funded by the Faculty of Engineering and the Australian Research Council (ARC) through the Future Fellowships scheme (FT220100318).
+
+
 <span class='anchor' id='services'></span>
 
 # 🤝 Services
