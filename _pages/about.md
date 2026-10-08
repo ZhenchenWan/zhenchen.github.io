@@ -123,7 +123,7 @@ Tianyu Huang, Zhenyang Ren, **_<u>Zhenchen Wan</u>_**, Jiyang Zheng, Wenjie Wang
 # 🎓 Education
 
 <div class='education-item'>
-<div class='edu-logo'><img src="{{ '/images/usyd-logo.jpg' | relative_url }}" alt='University of Sydney'></div>
+<div class='edu-logo'><img src="{{ '/images/usyd-logo.png' | relative_url }}" alt='University of Sydney'></div>
 <div class='edu-text' markdown="1">
 **Ph.D. Candidate** \\
 [University of Sydney](https://www.sydney.edu.au/), Sydney, Australia \\

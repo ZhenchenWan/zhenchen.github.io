@@ -127,7 +127,7 @@ Tianyu Huang, Zhenyang Ren, **_<u>Zhenchen Wan</u>_**, Jiyang Zheng, Wenjie Wang
 # 🎓 教育背景
 
 <div class='education-item'>
-<div class='edu-logo'><img src="{{ '/images/usyd-logo.jpg' | relative_url }}" alt='悉尼大学'></div>
+<div class='edu-logo'><img src="{{ '/images/usyd-logo.png' | relative_url }}" alt='悉尼大学'></div>
 <div class='edu-text' markdown="1">
 **博士候选人** \\
 [悉尼大学](https://www.sydney.edu.au/)，澳大利亚悉尼 \\
