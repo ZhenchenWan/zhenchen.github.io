@@ -189,7 +189,7 @@ Supervisor: [Prof. Mingming Gong](https://mingming-gong.github.io/)
 ## Conference Reviewer
 
 - NeurIPS 2026
-- ICLR 2026
+- ICLR 2027
 
 ## Journal Reviewer
 

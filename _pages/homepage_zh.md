@@ -194,7 +194,7 @@ Tianyu Huang, Zhenyang Ren, **_<u>Zhenchen Wan</u>_**, Jiyang Zheng, Wenjie Wang
 ## 会议审稿人
 
 - NeurIPS 2026
-- ICLR 2026
+- ICLR 2027
 
 ## 期刊审稿人
 
