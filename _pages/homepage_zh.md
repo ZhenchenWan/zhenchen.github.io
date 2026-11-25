@@ -62,7 +62,13 @@ redirect_from:
 
 ## 预印本与技术报告
 
-<div class='paper-box paper-box--text-only'>
+<div class='paper-box paper-box--illustrated'>
+<!-- Figure 1: https://arxiv.org/html/2611.30203v1/cover_image.png -->
+<div class='paper-box-image'>
+<a href="{{ '/images/teaser/2026ToWo-VTON.png' | relative_url }}" aria-label="查看大图: ToWo-VTON" title="查看大图">
+<img src="{{ '/images/teaser/2026ToWo-VTON.webp' | relative_url }}" alt="ToWo-VTON 大幅服装变化下的试穿对比" width="1977" height="571" loading="lazy" decoding="async">
+</a>
+</div>
 <div class='paper-box-text' markdown="1">
 
 <span class="paper-venue">arXiv 2026</span>
@@ -78,7 +84,13 @@ redirect_from:
 </div>
 
 
-<div class='paper-box paper-box--text-only'>
+<div class='paper-box paper-box--illustrated'>
+<!-- Figure 1: https://arxiv.org/html/2606.28421v3/abs.png -->
+<div class='paper-box-image'>
+<a href="{{ '/images/teaser/2026JuZhou.png' | relative_url }}" aria-label="查看大图: JuZhou" title="查看大图">
+<img src="{{ '/images/teaser/2026JuZhou.webp' | relative_url }}" alt="JuZhou 1.0 端侧生成效果与模型概览" width="989" height="338" loading="lazy" decoding="async">
+</a>
+</div>
 <div class='paper-box-text' markdown="1">
 
 <span class="paper-venue">技术报告 2026</span>
@@ -94,7 +106,13 @@ Ce Chen, Congrui Wang, Yonglin Li, **_<u>Zhenchen Wan</u>_**, et al.
 </div>
 
 
-<div class='paper-box paper-box--text-only'>
+<div class='paper-box paper-box--illustrated'>
+<!-- Figure 1: https://arxiv.org/html/2603.29209v1/teaser.png -->
+<div class='paper-box-image'>
+<a href="{{ '/images/teaser/2026LightHarmony3D.png' | relative_url }}" aria-label="查看大图: LightHarmony3D" title="查看大图">
+<img src="{{ '/images/teaser/2026LightHarmony3D.webp' | relative_url }}" alt="LightHarmony3D 物体插入与光照协调效果" width="2036" height="688" loading="lazy" decoding="async">
+</a>
+</div>
 <div class='paper-box-text' markdown="1">
 
 <span class="paper-venue">arXiv 2026</span>
@@ -109,7 +127,13 @@ Tianyu Huang, Zhenyang Ren, **_<u>Zhenchen Wan</u>_**, Jiyang Zheng, Wenjie Wang
 </div>
 
 
-<div class='paper-box paper-box--text-only'>
+<div class='paper-box paper-box--illustrated'>
+<!-- Figure 1: https://arxiv.org/html/2503.08650v1/cover.png -->
+<div class='paper-box-image'>
+<a href="{{ '/images/teaser/2025MF-VITON.png' | relative_url }}" aria-label="查看大图: MF-VITON" title="查看大图">
+<img src="{{ '/images/teaser/2025MF-VITON.webp' | relative_url }}" alt="MF-VITON 无掩码与真实场景试穿效果" width="1372" height="945" loading="lazy" decoding="async">
+</a>
+</div>
 <div class='paper-box-text' markdown="1">
 
 <span class="paper-venue">arXiv 2025</span>
@@ -124,7 +148,13 @@ Tianyu Huang, Zhenyang Ren, **_<u>Zhenchen Wan</u>_**, Jiyang Zheng, Wenjie Wang
 </div>
 
 
-<div class='paper-box paper-box--text-only' style='border-bottom: none;'>
+<div class='paper-box paper-box--illustrated' style='border-bottom: none;'>
+<!-- Figure 1: https://arxiv.org/html/2411.17017v3/cover.png -->
+<div class='paper-box-image'>
+<a href="{{ '/images/teaser/2024TED-VITON.png' | relative_url }}" aria-label="查看大图: TED-VITON" title="查看大图">
+<img src="{{ '/images/teaser/2024TED-VITON.webp' | relative_url }}" alt="TED-VITON 服装细节与文字保真效果" width="1737" height="900" loading="lazy" decoding="async">
+</a>
+</div>
 <div class='paper-box-text' markdown="1">
 
 <span class="paper-venue">arXiv 2024</span>

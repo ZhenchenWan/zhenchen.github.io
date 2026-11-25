@@ -59,7 +59,13 @@ I am open to academic collaboration. Please feel free to contact me at [flashwzc
 
 ## Preprints & Technical Reports
 
-<div class='paper-box paper-box--text-only'>
+<div class='paper-box paper-box--illustrated'>
+<!-- Figure 1: https://arxiv.org/html/2611.30203v1/cover_image.png -->
+<div class='paper-box-image'>
+<a href="{{ '/images/teaser/2026ToWo-VTON.png' | relative_url }}" aria-label="View full-size figure: ToWo-VTON" title="View full-size figure">
+<img src="{{ '/images/teaser/2026ToWo-VTON.webp' | relative_url }}" alt="ToWo-VTON comparison under large garment changes" width="1977" height="571" loading="lazy" decoding="async">
+</a>
+</div>
 <div class='paper-box-text' markdown="1">
 
 <span class="paper-venue">arXiv 2026</span>
@@ -75,7 +81,13 @@ I am open to academic collaboration. Please feel free to contact me at [flashwzc
 </div>
 
 
-<div class='paper-box paper-box--text-only'>
+<div class='paper-box paper-box--illustrated'>
+<!-- Figure 1: https://arxiv.org/html/2606.28421v3/abs.png -->
+<div class='paper-box-image'>
+<a href="{{ '/images/teaser/2026JuZhou.png' | relative_url }}" aria-label="View full-size figure: JuZhou" title="View full-size figure">
+<img src="{{ '/images/teaser/2026JuZhou.webp' | relative_url }}" alt="JuZhou 1.0 on-device generation overview" width="989" height="338" loading="lazy" decoding="async">
+</a>
+</div>
 <div class='paper-box-text' markdown="1">
 
 <span class="paper-venue">Technical Report 2026</span>
@@ -91,7 +103,13 @@ Ce Chen, Congrui Wang, Yonglin Li, **_<u>Zhenchen Wan</u>_**, et al.
 </div>
 
 
-<div class='paper-box paper-box--text-only'>
+<div class='paper-box paper-box--illustrated'>
+<!-- Figure 1: https://arxiv.org/html/2603.29209v1/teaser.png -->
+<div class='paper-box-image'>
+<a href="{{ '/images/teaser/2026LightHarmony3D.png' | relative_url }}" aria-label="View full-size figure: LightHarmony3D" title="View full-size figure">
+<img src="{{ '/images/teaser/2026LightHarmony3D.webp' | relative_url }}" alt="LightHarmony3D object insertion and lighting results" width="2036" height="688" loading="lazy" decoding="async">
+</a>
+</div>
 <div class='paper-box-text' markdown="1">
 
 <span class="paper-venue">arXiv 2026</span>
@@ -106,7 +124,13 @@ Tianyu Huang, Zhenyang Ren, **_<u>Zhenchen Wan</u>_**, Jiyang Zheng, Wenjie Wang
 </div>
 
 
-<div class='paper-box paper-box--text-only'>
+<div class='paper-box paper-box--illustrated'>
+<!-- Figure 1: https://arxiv.org/html/2503.08650v1/cover.png -->
+<div class='paper-box-image'>
+<a href="{{ '/images/teaser/2025MF-VITON.png' | relative_url }}" aria-label="View full-size figure: MF-VITON" title="View full-size figure">
+<img src="{{ '/images/teaser/2025MF-VITON.webp' | relative_url }}" alt="MF-VITON mask-free and in-the-wild try-on results" width="1372" height="945" loading="lazy" decoding="async">
+</a>
+</div>
 <div class='paper-box-text' markdown="1">
 
 <span class="paper-venue">arXiv 2025</span>
@@ -121,7 +145,13 @@ Tianyu Huang, Zhenyang Ren, **_<u>Zhenchen Wan</u>_**, Jiyang Zheng, Wenjie Wang
 </div>
 
 
-<div class='paper-box paper-box--text-only' style='border-bottom: none;'>
+<div class='paper-box paper-box--illustrated' style='border-bottom: none;'>
+<!-- Figure 1: https://arxiv.org/html/2411.17017v3/cover.png -->
+<div class='paper-box-image'>
+<a href="{{ '/images/teaser/2024TED-VITON.png' | relative_url }}" aria-label="View full-size figure: TED-VITON" title="View full-size figure">
+<img src="{{ '/images/teaser/2024TED-VITON.webp' | relative_url }}" alt="TED-VITON garment detail and text preservation results" width="1737" height="900" loading="lazy" decoding="async">
+</a>
+</div>
 <div class='paper-box-text' markdown="1">
 
 <span class="paper-venue">arXiv 2024</span>
