@@ -65,6 +65,22 @@ redirect_from:
 <div class='paper-box paper-box--text-only'>
 <div class='paper-box-text' markdown="1">
 
+<span class="paper-venue">arXiv 2026</span>
+
+[ToWo-VTON: Take-Off Wear-On Virtual Try-On via Topology-aware Decoupling](https://arxiv.org/abs/2611.30203) \\
+**_<u>Zhenchen Wan</u>_**, Tianxi Chen, Runqi Lin, Tianyi Bo, Ce Chen, Jiaxin Huang, Yanwu Xu, Tongliang Liu, Mingming Gong
+
+[**arXiv**](https://arxiv.org/abs/2611.30203) \| [**PDF**](https://arxiv.org/pdf/2611.30203) \| [**HTML**](https://arxiv.org/html/2611.30203)
+
+- 通过 Take-Off/Wear-On 两阶段流程，将人体结构估计与服装生成解耦，改善服装轮廓大幅变化时的虚拟试穿效果。
+- 构建 Body-Fitting DressCode（BFDC）数据集，支持基于扩散模型与多模态大语言模型的试穿框架，覆盖上半身、下半身及全身服装。
+</div>
+</div>
+
+
+<div class='paper-box paper-box--text-only'>
+<div class='paper-box-text' markdown="1">
+
 <span class="paper-venue">技术报告 2026</span>
 
 [JuZhou 1.0 Technical Report: The First Edge-Native Text-to-Image Foundation Model Trained Entirely on China-Developed AI Accelerators](https://arxiv.org/abs/2606.28421) \\
@@ -195,6 +211,7 @@ Tianyu Huang, Zhenyang Ren, **_<u>Zhenchen Wan</u>_**, Jiyang Zheng, Wenjie Wang
 
 - NeurIPS 2026
 - ICLR 2027
+- CVPR 2027
 
 ## 期刊审稿人
 

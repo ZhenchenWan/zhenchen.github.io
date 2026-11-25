@@ -62,6 +62,22 @@ I am open to academic collaboration. Please feel free to contact me at [flashwzc
 <div class='paper-box paper-box--text-only'>
 <div class='paper-box-text' markdown="1">
 
+<span class="paper-venue">arXiv 2026</span>
+
+[ToWo-VTON: Take-Off Wear-On Virtual Try-On via Topology-aware Decoupling](https://arxiv.org/abs/2611.30203) \\
+**_<u>Zhenchen Wan</u>_**, Tianxi Chen, Runqi Lin, Tianyi Bo, Ce Chen, Jiaxin Huang, Yanwu Xu, Tongliang Liu, Mingming Gong
+
+[**arXiv**](https://arxiv.org/abs/2611.30203) \| [**PDF**](https://arxiv.org/pdf/2611.30203) \| [**HTML**](https://arxiv.org/html/2611.30203)
+
+- Separates body structure estimation from garment synthesis through a two-stage Take-Off/Wear-On pipeline, improving virtual try-on under large garment silhouette changes.
+- Introduces the Body-Fitting DressCode (BFDC) dataset and supports diffusion-based and MLLM-guided backbones for upper-, lower-, and full-body try-on.
+</div>
+</div>
+
+
+<div class='paper-box paper-box--text-only'>
+<div class='paper-box-text' markdown="1">
+
 <span class="paper-venue">Technical Report 2026</span>
 
 [JuZhou 1.0 Technical Report: The First Edge-Native Text-to-Image Foundation Model Trained Entirely on China-Developed AI Accelerators](https://arxiv.org/abs/2606.28421) \\
@@ -190,6 +206,7 @@ Supervisor: [Prof. Mingming Gong](https://mingming-gong.github.io/)
 
 - NeurIPS 2026
 - ICLR 2027
+- CVPR 2027
 
 ## Journal Reviewer
 
